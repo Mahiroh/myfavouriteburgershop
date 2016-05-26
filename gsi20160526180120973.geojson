@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ハンバーガーショップ",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.401735663414,
+            35.567600827667704
+          ],
+          [
+            139.40106511116028,
+            35.56825099807941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.40170347690582,
+            35.56764446343096
+          ],
+          [
+            139.40106511116028,
+            35.56824663453718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.40109193325043,
+            35.56826408870466
+          ],
+          [
+            139.40127968788147,
+            35.56837754070055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_color": "#cc0000",
+        "_opacity": 0.5,
+        "_weight": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.40108120441437,
+            35.56826408870466
+          ],
+          [
+            139.40125286579132,
+            35.56837317716522
+          ]
+        ]
+      }
+    }
+  ]
+}
